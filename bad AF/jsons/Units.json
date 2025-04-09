@@ -1,0 +1,25 @@
+
+"name": "cat"
+"replaces": "Frontier Militia",
+"unitType": "Infantry",
+"uniqueTo": "The Cats",
+"movement": 2,
+"strength": 8,
+"cost": 40,
+"obsoleteTech": "Next-Gen Armaments", //Exoskeletons?
+"uniques": [
+	"Ignores Zone of Control",
+	"Can upgrade to [Colony Rifleman]",
+	"Can upgrade to [Colony Marksman]",
+	"May upgrade to [Colony Rifleman] through ruins-like effects <with [50]% chance>",
+	"May upgrade to [Colony Marksman] through ruins-like effects <with [50]% chance>",
+	
+],
+"promotions": 
+"attackSound": "shot",
+"civilopediaText": [
+	{ 
+		"text": "The simplest unit in the army" 
+	}
+]
+},
